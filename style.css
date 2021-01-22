@@ -1,0 +1,42 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 80px;
+}
+p {
+    color: dimgray;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.name-highlight {
+    color: #e07158;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 100px;
+}
+.link-btn {
+    margin-top: 40px;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #e07158;
+    border-radius: 6px;
+    color: white;
+}
+.half-width img {
+    width: 80%;
+}
+/* .work-area {
+    border: 1px solid red;
+    background-color: #E5E5E5;
+}
+.work-area h1 {
+    text-align: center;
+} */
