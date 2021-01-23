@@ -92,3 +92,10 @@ p {
     border-radius: 6px;
     color: white;
 }
+.social-media-area {
+    text-align: center;
+}
+.social-media-icon img{
+    margin: 10px;
+    width: 40px;
+}
