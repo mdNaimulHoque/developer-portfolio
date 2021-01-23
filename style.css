@@ -41,7 +41,7 @@ p {
     width: 80%;
 }
 .work-area {
-    background-color: gray;
+    background-color: #e5e5e5;
 }
 .project-area {
     margin: 100px;
@@ -98,4 +98,17 @@ p {
 .social-media-icon img{
     margin: 10px;
     width: 40px;
+}
+.massage-area input{
+    padding: 12px 20px;
+    margin: 8px 0;
+    width: 50%;
+}
+.massage-area button {
+    padding: 10px 30px;
+    background-color: #e07158;
+    border: 1px solid gray;
+    border-radius: 6px;
+    color: white;
+    box-sizing: border-box;
 }
